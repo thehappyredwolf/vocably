@@ -165,4 +165,4 @@ The app has 400+ words with definitions. Words get harder as you move forward.
 
 ## License
 
-MIT License
+MIT License. See [LICENSE](LICENSE) for details.
